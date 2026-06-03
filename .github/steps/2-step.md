@@ -176,6 +176,13 @@ In new project developments, it's often helpful to have some realistic looking f
 
    </details>
 
+   ---
+
+   ### Navigation
+
+   - Previous: [Step 1](1-step.md)
+   - Next: [Step 3](3-step.md)
+
 1. You can now go to your website and verify that the new activities are visible.
 
 ### :keyboard: Activity: Use Copilot to describe our work 💬
@@ -207,3 +214,10 @@ If you don't get feedback, here are some things to check:
 - Make sure your pushed the `src/app.py` file changes to the branch `accelerate-with-copilot`.
 
 </details>
+
+---
+
+### Navigation
+
+- Previous: [Step 1](1-step.md)
+- Next: [Step 3](3-step.md)

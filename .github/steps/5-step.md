@@ -40,3 +40,10 @@ Both **Copilot pull request summaries** and **Copilot code review** have limited
 1. At the bottom, press the **Merge pull request** button. Nice work! You are all done! :tada:
 
 1. Wait a moment for Mona to check your work, provide feedback, and post a final review of this exercise!
+
+---
+
+### Navigation
+
+- Previous: [Step 4](4-step.md)
+- Next: [Review](x-review.md)

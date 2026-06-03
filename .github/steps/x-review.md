@@ -20,3 +20,10 @@ Here's a recap of the GitHub Copilot features you learned:
   - Tailor Copilot to your project needs in [Customize your GitHub Copilot Experience](https://github.com/skills/customize-your-github-copilot-experience)
   - Tackle legacy COBOL code in [Modernize Your Legacy Code with GitHub Copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) exercise
   - Try GitHub Copilot Coding Agent in the [Expand your team with Copilot](https://github.com/skills/expand-your-team-with-copilot) exercise
+
+---
+
+### Navigation
+
+- Previous: [Step 5](5-step.md)
+- [Back to README](../../README.md)

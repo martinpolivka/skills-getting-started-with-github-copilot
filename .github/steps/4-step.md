@@ -87,3 +87,10 @@ Your backend still has zero test coverage. Use **Plan Agent** to create a plan, 
 - Make sure `pytest` is added in `requirements.txt` and a `tests/` directory exists.
 
 </details>
+
+---
+
+### Navigation
+
+- Previous: [Step 3](3-step.md)
+- Next: [Step 5](5-step.md)

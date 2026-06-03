@@ -26,24 +26,35 @@ As you work in your IDE, you'll most often interact with GitHub Copilot in the f
 
 As you work, you'll find GitHub Copilot can help out in several places across the `github.com` website and in your favorite coding environments such as VS Code, Jet Brains, and Xcode!
 
-For today's coding though, we will practice with VS Code in a pre-configured development environment known as a [GitHub Codespace](https://github.com/features/codespaces).
+For today's coding, we will practise with VS Code using a local clone of this prepared workshop repository.
 
 > [!TIP]
 > You can learn more about current and upcoming features in the [GitHub Copilot Features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features) documentation.
 
 ### :keyboard: Activity: Get a project intro from Copilot Chat
 
-Let's start up our development environment, use copilot to learn a bit about the project, and then give it a test run.
+Let's start up our development environment, use Copilot to learn a bit about the project, and then give it a test run.
 
-1. Use the below button to open the **Create Codespace** page in a new tab. Use the default configuration.
+1. Clone this repository to your machine.
 
-   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/{{full_repo_name}}?quickstart=1)
+   [![Clone in VS Code](https://img.shields.io/badge/Clone%20in-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](vscode://vscode.git/clone?url=https://github.com/{{full_repo_name}}.git)
 
-1. Confirm the **Repository** field is your copy of the exercise, not the original, then click the green **Create Codespace** button.
-   - ✅ Your copy: `/{{full_repo_name}}`
-   - ❌ Original: `/skills/getting-started-with-github-copilot`
+   Or use the terminal:
 
-1. Wait a moment for Visual Studio Code to load in your browser.
+   ```bash
+   # Clone the prepared workshop repository and enter its folder.
+   git clone https://github.com/{{full_repo_name}}.git
+   cd skills-getting-started-with-github-copilot
+   ```
+
+1. Open the cloned repository in VS Code.
+
+1. Before making changes, create your own participant branch.
+
+   ```bash
+   # Create a participant branch for your lab work.
+   git switch -c participant/<your-name>
+   ```
 
 1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot` and `Python` extensions are installed and enabled.
 
@@ -117,3 +128,10 @@ If you don't get feedback, here are some things to check:
 - Make sure the branch was indeed published to your repository.
 
 </details>
+
+---
+
+### Navigation
+
+- [Back to README](../../README.md)
+- Next: [Step 2](2-step.md)
