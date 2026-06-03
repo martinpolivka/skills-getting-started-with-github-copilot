@@ -2,7 +2,7 @@ name: Step 2
 on:
   push:
     branches:
-      - "accelerate-with-copilot"
+      - "participant/**"
     paths:
       - "src/app.py"
 

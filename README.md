@@ -21,7 +21,7 @@ In this exercise, you will:
 
 ### How to start this exercise
 
-Before making any changes, create your own branch. Use a branch name that identifies you, for example `participant/<your-name>`.
+In Step 1, GitHub Copilot will help you create and publish your participant branch. Use a branch name that identifies you, for example `participant/<your-name>`.
 
 Continue with [Step 1](.github/steps/1-step.md).
 

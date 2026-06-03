@@ -204,7 +204,7 @@ Nice work fixing that bug and expanding the example activities! Now let's get ou
 
 If you don't get feedback, here are some things to check:
 
-- Make sure your pushed the `src/app.py` file changes to the branch `accelerate-with-copilot`.
+- Make sure you pushed the `src/app.py` file changes to your `participant/<your-name>` branch.
 
 </details>
 

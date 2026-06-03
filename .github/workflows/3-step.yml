@@ -3,7 +3,7 @@ name: Step 3
 on:
   push:
     branches:
-      - "accelerate-with-copilot"
+      - "participant/**"
     paths:
       - "src/static/**"
 

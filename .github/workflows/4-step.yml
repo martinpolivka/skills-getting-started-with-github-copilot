@@ -3,7 +3,7 @@ name: Step 4
 on:
   push:
     branches:
-      - "accelerate-with-copilot"
+      - "participant/**"
 
 permissions:
   contents: read

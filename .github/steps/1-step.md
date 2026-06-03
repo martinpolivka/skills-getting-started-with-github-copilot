@@ -49,13 +49,6 @@ Let's start up our development environment, use Copilot to learn a bit about the
 
 1. Open the cloned repository in VS Code.
 
-1. Before making changes, create your own participant branch.
-
-   ```bash
-   # Create a participant branch for your lab work.
-   git switch -c participant/<your-name>
-   ```
-
 1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot` and `Python` extensions are installed and enabled.
 
    <img width="350" alt="copilot extension for VS Code" src="../images/copilot-extension-vscode.png" />
@@ -95,7 +88,7 @@ Let's start up our development environment, use Copilot to learn a bit about the
 
 ### :keyboard: Activity: Use Copilot to help remember a terminal command 🙋
 
-Great work! Now that we are familiar with the app and we know it works, let's ask copilot for help starting a branch so we can do some customizing.
+Great work! Now that we are familiar with the app and we know it works, let's ask Copilot for help starting a branch so we can do some customising.
 
 1. In VS Code's bottom panel, select the **Terminal** tab and on the right side click the plus `+` sign to create a new terminal window.
 
@@ -108,14 +101,16 @@ Great work! Now that we are familiar with the app and we know it works, let's as
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > Hey copilot, how can I create and publish a new Git branch called "accelerate-with-copilot"?
+   > Hey Copilot, how can I create and publish a new Git branch called "participant/<your-name>"?
    > ```
+
+   Replace `<your-name>` with your own name or GitHub username before running the command.
 
    > 💡 **Tip:** If Copilot doesn't give you quite what you want, you can always continue explaining what you need. Copilot will remember the conversation history for follow-up responses.
 
 1. Press the `Run` button to let Copilot insert the terminal command for us. No need to copy and paste!
 
-1. After a moment, look in the VS Code lower status bar, on the left, to see the active branch. It should now say `accelerate-with-copilot`. If so, you are all done with this step!
+1. After a moment, look in the VS Code lower status bar, on the left, to see the active branch. It should now say `participant/<your-name>`. If so, you are all done with this step!
 
 1. Now that your branch is pushed to GitHub, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
 
@@ -124,7 +119,7 @@ Great work! Now that we are familiar with the app and we know it works, let's as
 
 If you don't get feedback, here are some things to check:
 
-- Make sure your created the branch with the exact name `accelerate-with-copilot`. No prefixes or suffixes.
+- Make sure you created a branch named `participant/<your-name>` and replaced `<your-name>` with your own name or GitHub username.
 - Make sure the branch was indeed published to your repository.
 
 </details>
