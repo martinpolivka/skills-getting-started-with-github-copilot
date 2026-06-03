@@ -78,8 +78,6 @@ Your backend still has zero test coverage. Use **Plan Agent** to create a plan, 
 
 1. **Commit** and **push** all your changes to your `participant/<your-name>` branch.
 
-1. Wait for Mona to check your work and share the next step.
-
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
@@ -92,5 +90,5 @@ Your backend still has zero test coverage. Use **Plan Agent** to create a plan, 
 
 ### Navigation
 
-- Previous: [Step 3](3-step.md)
 - Next: [Step 5](5-step.md)
+- Previous: [Step 3](3-step.md)

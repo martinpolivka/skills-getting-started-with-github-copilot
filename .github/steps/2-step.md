@@ -197,8 +197,6 @@ Nice work fixing that bug and expanding the example activities! Now let's get ou
 
 1. Press the **Commit** button and **Sync Changes** button to push your changes to GitHub.
 
-1. Wait a moment for Mona to check your work, provide feedback, and share the next lesson.
-
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
@@ -212,5 +210,5 @@ If you don't get feedback, here are some things to check:
 
 ### Navigation
 
-- Previous: [Step 1](1-step.md)
 - Next: [Step 3](3-step.md)
+- Previous: [Step 1](1-step.md)

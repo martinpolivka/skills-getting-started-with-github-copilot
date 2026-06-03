@@ -140,11 +140,9 @@ If you don't get the desired results, you can try other models or provide follow
 
 1. **Commit** and **push** all your changes to your `participant/<your-name>` branch.
 
-1. Wait for Mona to check your work and share the next step.
-
 ---
 
 ### Navigation
 
-- Previous: [Step 2](2-step.md)
 - Next: [Step 4](4-step.md)
+- Previous: [Step 2](2-step.md)
