@@ -13,14 +13,6 @@ Here's a recap of the GitHub Copilot features you learned:
 - **Plan Agent**: Drafted a plan, answered questions, and started implementation
 - **GitHub integration**: Generated commit messages, PR summaries, and code reviews
 
-### What's next?
-
-- Check out the other [GitHub Skills exercises](https://learn.github.com/skills).
-  - Learn how to [Integrate MCP with Copilot](https://github.com/skills/integrate-mcp-with-copilot) to give Copilot extra capabilities!
-  - Tailor Copilot to your project needs in [Customize your GitHub Copilot Experience](https://github.com/skills/customize-your-github-copilot-experience)
-  - Tackle legacy COBOL code in [Modernize Your Legacy Code with GitHub Copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) exercise
-  - Try GitHub Copilot Coding Agent in the [Expand your team with Copilot](https://github.com/skills/expand-your-team-with-copilot) exercise
-
 ---
 
 ### Navigation
