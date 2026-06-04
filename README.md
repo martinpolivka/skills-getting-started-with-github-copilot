@@ -12,6 +12,18 @@ _Get started using GitHub Copilot in less than an hour._
   - Basic coding principles
 - **How long**: This exercise takes less than one hour to complete.
 
+### Local prerequisites
+
+Codespaces are not used in this workshop. Before you start, make sure your computer has:
+
+- [Git](https://git-scm.com/) and access to push branches to this repository.
+- [Visual Studio Code](https://code.visualstudio.com/) with the GitHub Copilot and GitHub Copilot Chat extensions installed.
+- GitHub Copilot access for your GitHub account, with Copilot Chat, Agent Mode, and inline chat available in VS Code.
+- Python 3.13 with `pip` and the ability to create a virtual environment.
+- The Python dependencies from `requirements.txt` installed locally before running the web app.
+- The VS Code Python extension and Python debugger support.
+- A modern browser for opening the local web app at `http://localhost:8000`.
+
 In this exercise, you will:
 
 1. Learn different interaction options to develop and plan with GitHub Copilot.
