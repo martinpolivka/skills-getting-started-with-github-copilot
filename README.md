@@ -8,7 +8,6 @@ _Get started using GitHub Copilot in less than an hour._
 - **What you'll learn**: The different ways to interact with Copilot to explain, write, plan, and develop code.
 - **What you'll build**: You will guide Copilot to update Mergington High School's extracurricular activities website.
 - **Prerequisites**:
-  - Skills exercise: [Introduction to GitHub](https://github.com/martinpolivka/skills-introduction-to-github)
   - Familiarity with [VS Code](https://code.visualstudio.com/)
   - Basic coding principles
 - **How long**: This exercise takes less than one hour to complete.
