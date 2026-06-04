@@ -15,7 +15,6 @@ _Get started using GitHub Copilot in less than an hour._
 
 In this exercise, you will:
 
-1. Use a preconfigured Codespace to run VS Code in your browser.
 1. Learn different interaction options to develop and plan with GitHub Copilot.
 1. Use Copilot to summarize and review your pull request.
 
