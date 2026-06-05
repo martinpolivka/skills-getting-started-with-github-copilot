@@ -14,7 +14,7 @@ _Get started using GitHub Copilot in less than an hour._
 
 ### Local prerequisites
 
-Codespaces are not used in this workshop. Before you start, make sure your computer has:
+Before you start, make sure your computer has:
 
 - [Git](https://git-scm.com/) and access to push branches to this repository.
 - [Visual Studio Code](https://code.visualstudio.com/) with the GitHub Copilot and GitHub Copilot Chat extensions installed.
