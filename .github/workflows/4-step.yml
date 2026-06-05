@@ -3,7 +3,7 @@ name: Step 4
 on:
   push:
     branches:
-      - "participant/**"
+      - 'participant/*'
 
 permissions:
   contents: read

@@ -2,7 +2,7 @@ name: Step 2
 on:
   push:
     branches:
-      - "participant/**"
+      - 'participant/*'
     paths:
       - "src/app.py"
 

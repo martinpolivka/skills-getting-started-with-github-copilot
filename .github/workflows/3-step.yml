@@ -3,7 +3,7 @@ name: Step 3
 on:
   push:
     branches:
-      - "participant/**"
+      - 'participant/*'
     paths:
       - "src/static/**"
 

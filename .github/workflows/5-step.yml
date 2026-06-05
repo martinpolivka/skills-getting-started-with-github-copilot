@@ -3,7 +3,7 @@ name: Step 5
 on:
   pull_request:
     branches:
-      - main
+      - 'participant/*'
     types:
       - closed
 
