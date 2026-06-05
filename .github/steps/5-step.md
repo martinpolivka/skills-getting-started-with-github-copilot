@@ -1,6 +1,6 @@
 ## Step 5: Using GitHub Copilot within a pull request
 
-Congratulations! You are finished with coding for this exercise (and VS Code). Now it's time to merge our work. :tada: To wrap up, let's learn about two limited-access Copilot features that can speed up our pull requests!
+Congratulations! You are finished with coding for this exercise and VS Code. To wrap up, let's learn about two limited-access Copilot features that can speed up our pull requests!
 
 ### 📖 Theory: GitHub Copilot for pull requests
 
@@ -37,7 +37,7 @@ Both **Copilot pull request summaries** and **Copilot code review** have limited
 
    > 💡 **Tip:** Notice a log entry that Copilot was requested for a review.
 
-1. At the bottom, press the **Merge pull request** button. Nice work! You are all done! :tada:
+1. Leave the pull request open for instructor review. Nice work, you are all done! :tada:
 
 ---
 
