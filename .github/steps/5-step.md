@@ -1,12 +1,12 @@
-## Step 5: Using GitHub Copilot within a pull request
+## Step 5: Reviewing your forked branch with GitHub Copilot
 
-Congratulations! You are finished with coding for this exercise and VS Code. To wrap up, let's learn about two limited-access Copilot features that can speed up our pull requests!
+Congratulations! You are finished with coding for this exercise and VS Code. To wrap up, let's review the changes that you made in your fork.
 
-### 📖 Theory: GitHub Copilot for pull requests
+### 📖 Theory: GitHub Copilot for review
 
-#### Copilot pull request summaries
+#### Copilot summaries
 
-Typically, you would review your notes and commit messages then summarize them for your pull request description. This may take some time, especially if commit messages are inconsistent or code is not documented well. Fortunately, Copilot can consider all changes in the pull request and provide the important highlights, and with references too!
+Typically, you would review your notes and commit messages, then summarise them for a teammate or instructor. This may take some time, especially if commit messages are inconsistent or code is not documented well. Copilot can help summarise the important highlights from your branch.
 
 #### Copilot code review
 
@@ -15,29 +15,23 @@ More eyes on our work is always useful so let's ask Copilot to do a first pass b
 > [!NOTE]
 > These features are only available on paid plans of **GitHub Copilot**. [[docs]](https://docs.github.com/en/copilot/get-started/plans)
 
-### :keyboard: Activity: Summarize and review a PR with Copilot
+### :keyboard: Activity: Summarise and review your branch with Copilot
 
-Both **Copilot pull request summaries** and **Copilot code review** have limited access, so this activity is mostly optional. If you don't have access, skip the optional steps of this activity.
+Some Copilot review features have limited access, so this activity is mostly optional. If you don't have access, use Copilot Chat to summarise the changed files instead.
 
-1. In a web browser, open another tab and navigate to your exercise repository.
+1. In VS Code, make sure you are on your `participant/<your-name>` branch in your fork.
 
-1. You might notice a **notification banner** suggesting to create a new pull request. Click that or use the **Pull Requests** tab at the top to **create a new pull request**. Please use the following details:
+1. Ask Copilot Chat to summarise your completed work:
 
-   - **base:** `main`
-   - **compare:** `participant/<your-name>`
-   - **title:** `Improve student activity registration system`
+   > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
+   >
+   > ```prompt
+   > Summarise the changes in my current branch.
+   > Explain the main files changed and any important behaviour updates.
+   > Do not create a pull request.
+   > ```
 
-1. (Optional) In the PR description toolbar click the **Copilot** icon and **Summary** action. After a moment, Copilot will add a description based on your changes. :memo:
-
-   <img alt="Copilot summarize button" width="450px" src="../images/copilot-summarize-button.png">
-
-1. (Optional) In the right side information panel at the top, locate the **Reviewers** section and click the **Request** button next to a **Copilot icon**. Wait a moment for Copilot to add a review comment to your pull request!
-
-   <img alt="Copilot review button" width="300px" src="../images/copilot-review-button.png">
-
-   > 💡 **Tip:** Notice a log entry that Copilot was requested for a review.
-
-1. Leave the pull request open for instructor review. Nice work, you are all done! :tada:
+1. Keep the completed work in your fork. Nice work, you are all done! :tada:
 
 ---
 

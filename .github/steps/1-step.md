@@ -26,7 +26,7 @@ As you work in your IDE, you'll most often interact with GitHub Copilot in the f
 
 As you work, you'll find GitHub Copilot can help out in several places across the `github.com` website and in your favorite coding environments such as VS Code, Jet Brains, and Xcode!
 
-For today's coding, we will practise with VS Code using a local clone of this prepared workshop repository.
+For today's coding, we will practise with VS Code using your own fork of this prepared workshop repository.
 
 > [!TIP]
 > You can learn more about current and upcoming features in the [GitHub Copilot Features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features) documentation.
@@ -35,15 +35,15 @@ For today's coding, we will practise with VS Code using a local clone of this pr
 
 Let's start up our development environment, use Copilot to learn a bit about the project, and then give it a test run.
 
-1. Clone this repository to your machine.
+1. Fork this repository to your own GitHub account.
 
-   [![Clone in VS Code](https://img.shields.io/badge/Clone%20in-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](vscode://vscode.git/clone?url=https://github.com/martinpolivka/skills-getting-started-with-github-copilot.git)
+   Do not create branches or commit directly in the original repository. All workshop changes should stay in a branch in your fork.
 
-   Or use the terminal:
+1. Clone your fork to your machine.
 
    ```bash
-   # Clone the prepared workshop repository and enter its folder.
-   git clone https://github.com/martinpolivka/skills-getting-started-with-github-copilot.git
+   # Clone your fork of this prepared workshop repository and enter its folder.
+   git clone https://github.com/<your-github-username>/skills-getting-started-with-github-copilot.git
    cd skills-getting-started-with-github-copilot
    ```
 
@@ -96,12 +96,12 @@ Great work! Now that we are familiar with the app and we know it works, let's as
 
 1. Within the new terminal window use the keyboard shortcut `Ctrl + I` (windows) or `Cmd + I` (mac) to bring up **Copilot's Terminal Inline Chat**.
 
-1. Let's ask Copilot to help us remember a command we have forgotten: creating a branch and publishing it.
+1. Let's ask Copilot to help us remember a command we have forgotten: creating a branch in our fork and publishing it.
 
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > Hey Copilot, how can I create and publish a new Git branch called "participant/<your-name>"?
+   > Hey Copilot, how can I create and publish a new Git branch called "participant/<your-name>" in my fork?
    > ```
 
    Replace `<your-name>` with your own name or GitHub username before running the command.
@@ -118,7 +118,7 @@ Great work! Now that we are familiar with the app and we know it works, let's as
 If you don't get feedback, here are some things to check:
 
 - Make sure you created a branch named `participant/<your-name>` and replaced `<your-name>` with your own name or GitHub username.
-- Make sure the branch was indeed published to your repository.
+- Make sure the branch was published to your fork.
 
 </details>
 
