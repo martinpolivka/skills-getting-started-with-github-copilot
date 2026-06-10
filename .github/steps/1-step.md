@@ -26,7 +26,7 @@ As you work in your IDE, you'll most often interact with GitHub Copilot in the f
 
 As you work, you'll find GitHub Copilot can help out in several places across the `github.com` website and in your favorite coding environments such as VS Code, Jet Brains, and Xcode!
 
-For today's coding, we will practise with VS Code using a local clone of this prepared workshop repository.
+For today's coding, we will practise with VS Code using a local clone of your fork of this prepared workshop repository.
 
 > [!TIP]
 > You can learn more about current and upcoming features in the [GitHub Copilot Features](https://docs.github.com/en/copilot/about-github-copilot/github-copilot-features) documentation.
@@ -35,15 +35,11 @@ For today's coding, we will practise with VS Code using a local clone of this pr
 
 Let's start up our development environment, use Copilot to learn a bit about the project, and then give it a test run.
 
-1. Clone this repository to your machine.
-
-   [![Clone in VS Code](https://img.shields.io/badge/Clone%20in-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](vscode://vscode.git/clone?url=https://github.com/martinpolivka/skills-getting-started-with-github-copilot.git)
-
-   Or use the terminal:
+1. Fork this repository to your own GitHub account, then clone your fork to your machine.
 
    ```bash
-   # Clone the prepared workshop repository and enter its folder.
-   git clone https://github.com/martinpolivka/skills-getting-started-with-github-copilot.git
+   # Clone your fork of this prepared workshop repository and enter its folder.
+   git clone https://github.com/<your-github-username>/skills-getting-started-with-github-copilot.git
    cd skills-getting-started-with-github-copilot
    ```
 
