@@ -16,7 +16,7 @@ _Get started using GitHub Copilot in less than an hour._
 
 Before you start, make sure your computer has:
 
-- [Git](https://git-scm.com/) and access to push branches to this repository.
+- [Git](https://git-scm.com/) and a GitHub.com account that can fork this public repository.
 - [Visual Studio Code](https://code.visualstudio.com/) with the GitHub Copilot and GitHub Copilot Chat extensions installed.
 - GitHub Copilot access for your GitHub account, with Copilot Chat, Agent Mode, and inline chat available in VS Code.
 - Python 3.13 with `pip` and the ability to create a virtual environment.
@@ -31,7 +31,7 @@ In this exercise, you will:
 
 ### How to start this exercise
 
-In Step 1, GitHub Copilot will help you create and publish your participant branch. Use a branch name that identifies you, for example `participant/<your-name>`.
+Before making any changes, fork this repository to your own GitHub account. Do not create branches or commit directly in the original `martinpolivka` repository. In Step 1, GitHub Copilot will help you create and publish your participant branch in your fork. Use a branch name that identifies you, for example `participant/<your-name>`.
 
 Continue with [Step 1](.github/steps/1-step.md).
 
